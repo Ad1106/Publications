@@ -1,0 +1,16 @@
+Menu-Driven program to implement Travel Agency
+
+Prerequisites: Classes and Objects in Java, Switch Case statement in Java
+
+Problem Statement:
+Write a program to build a simple application for the bus travelling service using JAVA 8, MYSQL Database and JDBC which can perform the following operations:
+
+Book ticket for users/passengers on given routes via the various payment method.
+Cancel the ticket booked by the users/passengers using the ticket details and the user credentials
+Print the ticket via ticket details and the user credentials.
+Update the passenger details on the booked ticket via ticket ID or E-mail ID and user credentials which are registered.
+
+
+
+Link of my article
+https://www.geeksforgeeks.org/menu-driven-program-to-implement-travel-agency/
